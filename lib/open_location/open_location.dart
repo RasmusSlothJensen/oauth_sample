@@ -1,0 +1,1 @@
+openLocation(Uri uri) => null;
